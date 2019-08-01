@@ -1,0 +1,9 @@
+/vendor
+/.idea
+/.vscode
+/.vagrant
+*.swp
+*.orig
+composer.phar
+/database/database.sqlite
+.env
